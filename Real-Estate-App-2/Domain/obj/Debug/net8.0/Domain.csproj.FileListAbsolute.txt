@@ -1,0 +1,60 @@
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\ediso\OneDrive\Desktop\Dizajni i Sistemit të Softuerit\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\Elez Kadrijaj\Desktop\Real-Estate-App\Real-Estate-App\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\ediso\OneDrive\Desktop\Paternat e Dizajnit dhe Refaktorimi i kodit\Real-Estate-Mvc\Real-Estate-App-2\Domain\obj\Debug\net8.0\ref\Domain.dll

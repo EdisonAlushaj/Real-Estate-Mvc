@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63B3C72A-ACAB-44DF-A37E-444488AD867E}|WebUI\\WebUI.csproj|c:\\users\\ediso\\onedrive\\desktop\\paternat e dizajnit dhe refaktorimi i kodit\\real-estate-mvc\\real-estate-app-2\\webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B3C72A-ACAB-44DF-A37E-444488AD867E}|WebUI\\WebUI.csproj|solutionrelative:webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA31D2F-55CF-460B-8A3A-225E0B48EB18}|Application\\Application.csproj|c:\\users\\ediso\\onedrive\\desktop\\paternat e dizajnit dhe refaktorimi i kodit\\real-estate-mvc\\real-estate-app-2\\application\\interface\\ipronarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA31D2F-55CF-460B-8A3A-225E0B48EB18}|Application\\Application.csproj|solutionrelative:application\\interface\\ipronarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D6A5B-9A72-4C26-9637-19E1126BA7E3}|Infrastructure\\Infrastructure.csproj|c:\\users\\ediso\\onedrive\\desktop\\paternat e dizajnit dhe refaktorimi i kodit\\real-estate-mvc\\real-estate-app-2\\infrastructure\\repositories\\pronarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D6A5B-9A72-4C26-9637-19E1126BA7E3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\pronarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA31D2F-55CF-460B-8A3A-225E0B48EB18}|Application\\Application.csproj|c:\\users\\ediso\\onedrive\\desktop\\paternat e dizajnit dhe refaktorimi i kodit\\real-estate-mvc\\real-estate-app-2\\application\\features\\property\\pronafeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA31D2F-55CF-460B-8A3A-225E0B48EB18}|Application\\Application.csproj|solutionrelative:application\\features\\property\\pronafeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B3C72A-ACAB-44DF-A37E-444488AD867E}|WebUI\\WebUI.csproj|c:\\users\\ediso\\onedrive\\desktop\\paternat e dizajnit dhe refaktorimi i kodit\\real-estate-mvc\\real-estate-app-2\\webui\\controllers\\pronacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B3C72A-ACAB-44DF-A37E-444488AD867E}|WebUI\\WebUI.csproj|solutionrelative:webui\\controllers\\pronacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B3C72A-ACAB-44DF-A37E-444488AD867E}|WebUI\\WebUI.csproj|c:\\users\\ediso\\onedrive\\desktop\\paternat e dizajnit dhe refaktorimi i kodit\\real-estate-mvc\\real-estate-app-2\\webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B3C72A-ACAB-44DF-A37E-444488AD867E}|WebUI\\WebUI.csproj|solutionrelative:webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 69,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App-2\\WebUI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebUI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App-2\\WebUI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebUI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:15:37.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PronaController.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App-2\\WebUI\\Controllers\\PronaController.cs",
+              "RelativeDocumentMoniker": "WebUI\\Controllers\\PronaController.cs",
+              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App-2\\WebUI\\Controllers\\PronaController.cs",
+              "RelativeToolTip": "WebUI\\Controllers\\PronaController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwEUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:12:47.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PronaFeature.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App-2\\Application\\Features\\Property\\PronaFeature.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Property\\PronaFeature.cs",
+              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App-2\\Application\\Features\\Property\\PronaFeature.cs",
+              "RelativeToolTip": "Application\\Features\\Property\\PronaFeature.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:12:09.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PronaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App-2\\Infrastructure\\Repositories\\PronaRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\PronaRepository.cs",
+              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App-2\\Infrastructure\\Repositories\\PronaRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\PronaRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:11:22.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPronaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App-2\\Application\\Interface\\IPronaRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\IPronaRepository.cs",
+              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App-2\\Application\\Interface\\IPronaRepository.cs",
+              "RelativeToolTip": "Application\\Interface\\IPronaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:10:29.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App-2\\WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App-2\\WebUI\\Program.cs",
+              "RelativeToolTip": "WebUI\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:37:59.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 58,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

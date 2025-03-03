@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63B3C72A-ACAB-44DF-A37E-444488AD867E}|WebUI\\WebUI.csproj|c:\\users\\ediso\\onedrive\\desktop\\paternat e dizajnit dhe refaktorimi i kodit\\real-estate-mvc\\real-estate-app\\webui\\controllers\\sellscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B3C72A-ACAB-44DF-A37E-444488AD867E}|WebUI\\WebUI.csproj|solutionrelative:webui\\controllers\\sellscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 87,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SellsController.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App\\WebUI\\Controllers\\SellsController.cs",
+              "RelativeDocumentMoniker": "WebUI\\Controllers\\SellsController.cs",
+              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Paternat e Dizajnit dhe Refaktorimi i kodit\\Real-Estate-Mvc\\Real-Estate-App\\WebUI\\Controllers\\SellsController.cs",
+              "RelativeToolTip": "WebUI\\Controllers\\SellsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T22:00:04.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 46,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
